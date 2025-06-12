@@ -13,8 +13,6 @@ Tableau Workbook - Contains the dashboards workbook
 
 **Skills Used: Tableau, Excel, Radial Bar Chart (Advanced Tableau Calculations)**
 
-**Tableau:** https://tabsoft.co/4cJW53T
-
 ## About The Data:
 
 Dataset source for this project is public on Kaggle and can be found at 
